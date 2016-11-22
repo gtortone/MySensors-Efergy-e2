@@ -9,7 +9,7 @@ This sketch use a JeeNode v5 (http://jeelabs.net/projects/hardware/wiki/JeeNode)
 with 433/868 MHz RFM12B module (www.hoperf.com/upload/rf/RFM12B.pdf) configured in OOK mode
 to capture wireless data (on pin D3) and forward it through NRF24L01+ with MySensors library
 
-Created by Gennaro Tortone  <gtortone@gmail.com>
+Created by Gennaro Tortone (gtortone@gmail.com)
 
 This program is free software; you can redistribute it and/or
 modify it under the terms of the GNU General Public License
